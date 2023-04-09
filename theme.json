@@ -1,0 +1,8 @@
+{
+  "name": "pmahomme darkmode",
+  "version": "0.1",
+  "description": "Modified default phpMyAdmin theme",
+  "author": "Damián Esmoris",
+  "url": "https://www.phpmyadmin.net/",
+  "supports": ["5.0", "5.1", "5.2"]
+}
